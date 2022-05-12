@@ -29,4 +29,5 @@ elif a == "scissors":
     else:
         print("Stone smashes scissors! You lose.")
 
+
 print("\nThanks for playing!\n")
